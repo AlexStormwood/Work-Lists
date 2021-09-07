@@ -1,6 +1,8 @@
 # Work Lists
 
- Lists of workshops, projects, etc, that I've worked on. Seen me at one of these? Awesome! Looking forward to reconnect 😀
+ Lists of workshops, projects, etc, that I've worked on. This is the summary or index page.
+
+Seen me at one of these? Awesome! Looking forward to reconnect 😀
 
 ## Education & Training Delivery
 
@@ -14,7 +16,7 @@ Courses:
 * Coder Academy GenTech March Intake 2018 - March 2018 to January 2019
 * Cranbrook Senior Boys College Digital Club - Term 3 2018 to Term 1 2020
 * AIT Augmented Reality subject - July 2018 to September 2018 & 2019
-* Scientific Games Unity Upskilling - 4th July 2018 to 5th July 2018
+* Scientific Games Unity Upskilling Course - 4th July 2018 to 5th July 2018
 * Al Sadiq College Yagoona STEM course - Term 2 2018
 * "Get Connected" K12 STEM program sponsored by Ebay (Coder Academy) - Term 3 to Term 4 2017
 * The Scots College Unity & VR Workshop - Term 3 2017 
