@@ -1,6 +1,6 @@
 # Work Lists
 
- Lists of workshops, projects, etc, that I've worked on. List is growing as I try to think back & dig up email chains about workshops & meetups & things from 2018 & earlier.
+ Lists of workshops, projects, etc, that I've worked on. Seen me at one of these? Awesome! Looking forward to reconnect 😀
 
 ## Education & Training Delivery
 
@@ -13,16 +13,17 @@ Courses:
 * Coder Academy FlexTrack March Intake 2019 - March 2019 to January 2020
 * Coder Academy GenTech March Intake 2018 - March 2018 to January 2019
 * Cranbrook Senior Boys College Digital Club - Term 3 2018 to Term 1 2020
-* AIT Augmented Reality subject - July 2018 to September 2018
-* Scientific Games Unity Upskilling - 3rd July 2018 to 4th July 2018
+* AIT Augmented Reality subject - July 2018 to September 2018 & 2019
+* Scientific Games Unity Upskilling - 4th July 2018 to 5th July 2018
+* Al Sadiq College Yagoona STEM course - Term 2 2018
 * "Get Connected" K12 STEM program sponsored by Ebay (Coder Academy) - Term 3 to Term 4 2017
 * The Scots College Unity & VR Workshop - Term 3 2017 
-* IGS Entrepreneurship Club - Term 3 2019 to Term 4 2019
+* IGS Entrepreneurship Club - Term 1 2019 to Term 4 2019
 * IGS 3D Printing Club Beginners & Advanced - Term 2 2017 to Term 2 2018
 * IGS Games Club Beginners & Advanced - Term 2 2017 to Term 4 2019
 * St Aloysius Coding Club Beginners - Term 4 2017 to Term 2 2018
-* Unity After-school workshops - Term 2 2017 to Term 4 2019
-* Unity After-work workshops - August 2017 to December 2019
+* Unity After-school course - Term 2 2017 to Term 4 2019
+* Unity After-work course - August 2017 to December 2019
 
 
 
@@ -30,13 +31,23 @@ Workshops:
 
 * Unity & VR Development with The Scots College - 3rd July 2020
 * AIT School Holiday Workshop: Games - 8th October 2019
-* Vodafone virtual reality rollercoasters workshop - 14th November 2018
+* IGS DI High Unity & VR rollercoasters workshop - 30th August 2019
+* Coder Academy School Holiday Game Development Workshop - 15th April to 18th April 2019
+* Coder Academy School Holiday 3D Design & Game Development Workshop - 16th January to 17th January 2019
+* Kingsgrove High School VR rollercoasters workshop - 6th December to 7th December 2018
+* IBM & P-Tech VR rollercoasters workshop - 15th November 2018
+* CodeNext @ Canterbury Girls High School - 30th October 2018
 * Cranbrook Innovation Academy - 8th October to 12th October 2018
+* October School Holiday Advanced Unity, 3D Design & VR Workshop for Teens (Coder Academy) - 3rd October to 5th October 2018
+* Unity & VR Development with IGS DI High (AIT) - 28th August 2018
+* School Holidays STEM & Makerspace Day (Coder Academy) - 19th July 2018
 * Unity and Game Development Workshop (AIT) - 12th July to 13th July 2018
 * April School Holiday Advanced Unity and VR Workshop for Teens (AIT) - 20th April 2018
 * April School Holiday Games Development & Artificial Intelligence Teens Workshop (AIT) - 18th April to 19th April 2018
 * VR Masterclass: Welcome to VR Locomotion & Interaction (AIT) - 22nd February 2018
+* IBM school holiday workshop (Coder Academy) - 23rd January 2018
 * TechTonic Fest 2018 (VR & AR track) (Coder Academy) - 19th January 2018
+* Mobile VR and Game Design Workshop for Teens (AIT) - 17th January 2018
 * Mobile VR and Game Design Workshop for Teens (AIT) - 18th December to 19th December 2017
 * Unity & VR Development with Bass Hill High School - 1st December 2017
 * Unity & VR Development with IGS - 27th November 2017
@@ -57,14 +68,18 @@ Workshops:
 * Summer School Holidays: Coding & Makerspace Workshop - 21st December to 23rd December 2016
 * Game Development and Unity Workshop (AIT) - 20th December 2016
 
+
+
 Presentations:
 
-* 
+* Deloitte Disruptors In Tech: VR/AR/XR - 7th February 2018
 * UTS STEM Teachers Talks - 28th November 2017
 
 
 
 ## Projects
+
+Actual software development projects!
 
 * The Scots College VR flythrough project - August 2020 to October 2020
 * Global Game Jam 2020 - 31st January to 2nd February 2020
@@ -76,6 +91,12 @@ Presentations:
 
 ## Exhibitions
 
+Events where I showed people something such as a VR experience or STEM tech kit.
+
+* Western Sydney Careers Expo (AIT) - 27th June to 30th June 2019
+
+* HSC & Careers Expo 2019 (AIT) - 30th May to 2nd June 2019
+
 * Play Fare at 107 Projects (BigfootDS) - 2nd March 2019
 
 * Supanova Sydney 2019 (BigfootDS) - 21st June to 23rd June 2019
@@ -84,11 +105,31 @@ Presentations:
 
 * AIT Game Day 2018 - 19th October 2018
 
+* Strathfield Library VR showcase (Coder Academy) - 12th October 2018
+
+* Hospital school (forgotten name of it) VR showcase - 30th August 2018
+
+* Moruya High School Excursion VR showcase (AIT) - 22nd August 2018
+
+* AIT Open Day 2018 - 28th July 2018
+
+* Western Sydney Careers Expo (AIT) - 28th June to 1st July 2018
+
+* Oxley College Excursion VR showcase (AIT) - 27th June 2018
+
 * Supanova Sydney 2018 (BigfootDS) - 15th June to 17th June 2018
+
+* HSC & Careers Expo 2018 (AIT) - 31st May to 3rd June 2018
+
+* Concord Library VR showcase - 17th April 2018
+
+* AIT Orientation Day VR showcase - 15th March to 16th March 2018
 
 * RTX Sydney 2018 (BigfootDS) - 3rd February to 4th February 2018
 
 * AIT Open Day 2018 - 20th January 2018
+
+* Chatswood Library Family Fun Day (Coder Academy) - 19th January 2018
 
 * IBM Highschools STEM Tech Day - 9th November 2017
 
@@ -110,7 +151,7 @@ Presentations:
 
 * Chatswood Library Science & Tech Expo (Coder Academy) - 12th August 2017
 
-* HSC Expo 2017 (AIT) - 2nd June 2017
+* HSC & Careers Expo 2017 (AIT) - 2nd June 2017
 
 * Coder Academy Teachmeet about VR - 1st June 2017
 
@@ -128,6 +169,8 @@ Presentations:
 
 ## Meetups, Conferences & Workshops Attendance
 
+Similar to all other events & expos above, except I got to enjoy all of these as a simple attendee! 🎉
+
 * IGEA Education Summit 2021 - 21st July 2021
 * Microsoft GameStack Live - 21st April 2021
 * IGEA presents Twitch for GameDevs - 2nd December 2020
@@ -135,11 +178,13 @@ Presentations:
 * GCAP 2020 - 5th October to 7th October 2020
 * PAXAUS 2019 - 11th October to 13th October 2019
 * GCAP 2019 - 7th October to 9th October 2019
-* Deloitte Disruptors In Tech Sydney - 21st August 2019
+* CODEvelop Linux Workshop - 9th September 2019
+* Deloitte Disruptors In Tech Sydney: Augmented Reality - 21st August 2019
 * Women In Space hosted by Coder Academy & One Giant Leap Australia - 23rd July 2019
-* Unite Sydney 2019 - 13th May 2019
+* Unite Sydney 2019 - 13th May to 14th May 2019
 * APDG Awards 2018 - 20th December 2018
 * AIT games meetup - 28th February 2019
+* Deloitte Disruptors In Tech Sydney: Internet of Things - 22nd November 2018
 * PAXAUS 2018 - 26th October to 28th October 2018
 * GCAP 2018 - 23rd October to 24th October 2018
 * Unite Melbourne 2018 - 22nd October 2018
