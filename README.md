@@ -8,24 +8,30 @@ Seen me at one of these? Awesome! Looking forward to reconnect 😀
 
 Courses:
 
-* Coder Academy FlexTrack March Intake 2021 - March 2021 to January 2022
-* Coder Academy Code, Cloud & Cyber May Intake 2020 - December 2020 to January 2021
-* Coder Academy FlexTrack March Intake 2020 - April 2020 to November 2020
-* Coder Academy & MYOB C# course for bootcamp graduates - 10th February to 21st February 2020
-* Coder Academy FlexTrack March Intake 2019 - March 2019 to January 2020
-* Coder Academy GenTech March Intake 2018 - March 2018 to January 2019
-* Cranbrook Senior Boys College Digital Club - Term 3 2018 to Term 1 2020
-* AIT Augmented Reality subject - July 2018 to September 2018 & 2019
-* Scientific Games Unity Upskilling Course - 4th July 2018 to 5th July 2018
-* Al Sadiq College Yagoona STEM course - Term 2 2018
-* "Get Connected" K12 STEM program sponsored by Ebay (Coder Academy) - Term 3 to Term 4 2017
-* The Scots College Unity & VR Workshop - Term 3 2017 
-* IGS Entrepreneurship Club - Term 1 2019 to Term 4 2019
-* IGS 3D Printing Club Beginners & Advanced - Term 2 2017 to Term 2 2018
-* IGS Games Club Beginners & Advanced - Term 2 2017 to Term 4 2019
-* St Aloysius Coding Club Beginners - Term 4 2017 to Term 2 2018
-* Unity After-school course - Term 2 2017 to Term 4 2019
-* Unity After-work course - August 2017 to December 2019
+* Coder Academy Support Hub (Support For All Cohorts) - August 2022 to present
+* Coder Academy Standard February 2024 Intake - February 2024 to March 2024 (and TBD, August 2024 to December 2024) (Lead educator) 
+* Coder Academy Standard October 2023 Intake - March 2024 to August 2024 (Lead educator)
+* Coder Academy Standard February 2023 Intake - August 2023 to December 2023 (Lead educator)
+* Coder Academy Standard October 2022 Intake - April 2023 to August 2023 (Lead educator)
+* Coder Academy FlexTrack March 2022 Intake - March 2022 to January 2023 (Teaching assistant)
+* Coder Academy FlexTrack March Intake 2021 - March 2021 to January 2022 (Teaching assistant)
+* Coder Academy Code, Cloud & Cyber May Intake 2020 - December 2020 to January 2021 (Teaching assistant)
+* Coder Academy FlexTrack March Intake 2020 - April 2020 to November 2020 (Teaching assistant)
+* Coder Academy & MYOB C# course for bootcamp graduates - 10th February to 21st February 2020 (Lead educator)
+* Coder Academy FlexTrack March Intake 2019 - March 2019 to January 2020 (Teaching assistant)
+* Coder Academy GenTech March Intake 2018 - March 2018 to January 2019 (Teaching assistant)
+* Cranbrook Senior Boys College Digital Club - Term 3 2018 to Term 1 2020 (Lead educator)
+* AIT Augmented Reality subject - July 2018 to September 2018 & 2019 (Lead educator)
+* Scientific Games Unity Upskilling Course - 4th July 2018 to 5th July 2018 (Lead educator)
+* Al Sadiq College Yagoona STEM course - Term 2 2018 (Teaching assistant)
+* "Get Connected" K12 STEM program sponsored by Ebay (Coder Academy) - Term 3 to Term 4 2017 (Lead educator)
+* The Scots College Unity & VR Workshop - Term 3 2017 (Lead educator)
+* IGS Entrepreneurship Club - Term 1 2019 to Term 4 2019 (Lead educator)
+* IGS 3D Printing Club Beginners & Advanced - Term 2 2017 to Term 2 2018 (Teaching Assitant sometimes, Lead educator sometimes)
+* IGS Games Club Beginners & Advanced - Term 2 2017 to Term 4 2019 (Lead educator)
+* St Aloysius Coding Club Beginners - Term 4 2017 to Term 2 2018 (Lead educator)
+* Unity After-school course - Term 2 2017 to Term 4 2019 (Lead educator)
+* Unity After-work course - August 2017 to December 2019 (Lead educator)
 
 
 
